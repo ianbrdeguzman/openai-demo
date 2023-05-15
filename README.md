@@ -10,7 +10,14 @@ Run the development server:
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Embedding
+
+Save your data using [http://localhost:3000/embedding](http://localhost:3000/embedding)
+
+## Chat
+
+Query your data using [http://localhost:3000/chat](http://localhost:3000/chat)
+
 
 ## Learn More
 
