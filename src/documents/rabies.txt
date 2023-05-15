@@ -1,0 +1,205 @@
+Rapid Access
+Approach to the Critical Patient 
+ACUTE RABIES EXPOSURE
+Update Tetanus-diphtheria-acellular pertussis (Tdap) vaccination if indicated (see chapter on Mammalian Bites). 
+Administer prophylactic antibiotics as indicated (see chapter on Mammalian Bites).
+Assess for rabies risk: Determine species and risk factors of animal, animal availability for observation (if dog, cat, or ferret), type of contact/severity of exposure, and geographic location/epidemiology.
+Administer initial postexposure prophylaxis:
+Cleanse wound.
+All postexposure prophylaxis should begin with immediate thorough cleansing of all wounds with soap and water for 15 minutes. A virucidal agent, eg, povidone-iodine solution, should be used to irrigate the wounds.
+Post exposure prophylaxis: Administer a single dose of human rabies immune globulin with a full course of rabies vaccine. Human rabies immune globulin is given only if the patient is not previously vaccinated. 
+Human rabies immune globulin should not be administered in the same syringe as the rabies vaccine.
+Human rabies immune globulin:
+Dose: 20 international units (IU) per kilogram.
+Infiltrate the full dose in and around the wound.
+Inject any remaining human rabies immune globulin intramuscularly, at a site distant from the site of rabies vaccine administration.
+All wounds should be fully infiltrated.
+Do not exceed the recommended dose. If necessary, the dose may be diluted with 0.9% sodium chloride. 
+Rabies vaccine
+Human diploid cell vaccine or 
+Purified chick embryo cell vaccine 
+Vaccine is given as a single vial (2.5 IU) reconstituted to 1 mL administered intramuscular in the deltoid for adults or in the anterolateral thigh for pediatric patients <2 years of age.
+This dose is given on days 0, 3, 7, and 14. If the patient is immunocompromised, a fifth dose on day 28 is recommended. 
+CONFIRMED SYMPTOMATIC HUMAN RABIES
+Treatment in most cases should be palliative.
+Hospital care is recommended for palliation. 
+Ensure hydration and sedation with titration of benzodiazepines, morphine, and/or barbiturates for comfort.
+Exceptional cases may consider aggressive therapy.
+Requires access to ICU-level care.
+There is no proven effective treatment after onset of symptoms.
+Consider combination therapy with rabies vaccine, human rabies immune globulin, monoclonal antibodies, ribavirin, ketamine, interferon alpha (IFN-α), and nimodipine in consultation with specialists. 
+
+
+EM:RAP Links
+Rabies 
+Rabies–EM:RAP 2018 
+Key Concepts
+Rabies is a zoonotic, nearly uniformly fatal encephalitis that is highly preventable through postexposure prophylaxis including vaccination. 
+It is caused by an RNA virus of the genus Lyssavirus, family Rhabdoviridae, order Mononegavirales. 
+It is most commonly acquired through the bite of an infected animal. It may also be transmitted through a scratch or contact of an open wound or intact mucus membrane with saliva, urine, sweat, or neurologic tissue from an infected animal. Any direct contact with a bat should be considered an exposure. Rabies transmission through organ transplantation or aerosol inhalation is rare but has been documented. Human-to-human transmission through a bite or exposure to bodily fluids has never been documented but is theoretically possible.
+Any mammal can contract rabies; however, small rodents and lagomorphs (rabbits and hares) are extremely unlikely to pass this disease on to humans as they die very rapidly from either the bite wound or the rapid progression of the disease. There are no documented cases of human rabies transmission from these animals.
+The rabies virus travels through peripheral motor neurons to the central nervous system, and then it is spread to peripheral tissues, including salivary glands, through peripheral sensory neurons.
+Rabies can manifest in 2 different clinical forms: encephalitic (“furious”) or paralytic (“dumb”).
+Diagnosis 
+Textbook presentation
+A 2-year-old previously healthy male is brought in by his parents after finding a bat in his room upon awakening in the morning. He does not have any visible injuries and is behaving normally. 
+A 24-year-old previously healthy female returns from a backpacking trip to India 2 months prior, and presents with fever, vomiting, altered mental status, intermittent agitation, and excessive salivation. Her boyfriend reports that she sustained a bite from a sick dog that she was trying to rescue during their trip. 
+History and physical exam
+Human rabies is a difficult, often missed diagnosis, especially in countries with low prevalence of human cases, such as the U.S.
+A history of bite from a mammal in the right clinical context is suggestive but not necessary for diagnosis.
+Very superficial wounds from bat exposure often go unnoticed but confer high risk for rabies transmission. 
+Any direct contact, or possible contact, with a bat should be considered an exposure.
+The incubation period is typically 1-3 months; however, this is highly variable and can range from 5 days to several years.
+The earliest signs and symptoms are usually pain and paresthesias at the site of exposure, which spread to other areas of the body.
+Illness is rapidly progressive and usually culminates in coma and death within 7-10 days of symptom onset.
+Encephalitic or “furious” rabies is characterized by intermittent agitation/altered sensorium with periods of lucidity, whereas paralytic or “dumb” rabies is characterized by spreading paralysis with a generally intact mentation until the most advanced stages. 
+Hydrophobia, aerophobia, dysphagia, painful pharyngeal spasms, and excessive salivation are all suggestive of clinical rabies in humans. 
+Fever, headache, focal neurologic deficits (including cranial nerve deficits), tremors, myoclonus, muscle fasciculations, and autonomic dysfunction are also often seen. 
+Atypical presentations are common, especially in cases of bat rabies variants.
+Rabies should be on the differential for any rapidly progressive, unexplained encephalitis, even in regions where this disease entity is rare in humans.
+Diagnostic tests
+Antemortem testing
+Antemortem testing is generally not available for source animal testing.
+Reverse transcription polymerase chain reaction (RT-PCR) testing of multiple repeated saliva, cerebrospinal fluid, urine, or hair follicle samples or of a single, adequately sized nuchal skin biopsy has good sensitivity in detecting encephalitic rabies.
+Magnetic resonance imaging (MRI) may help differentiate rabies encephalitis from other viral encephalitis. MRI will show abnormal hypersignal T2 images in the pre-coma phase and gadolinium enhancement only in the coma phase of disease.
+Postmortem testing
+Postmortem testing can be used for diagnosis in animals and confirmatory diagnosis in deceased patients.
+The World Health Organization (WHO) and World Organization for Animal Health recommend fluorescent antibody tests of brain smear or touch impressions from brain samples.
+Differential diagnosis
+Meningitis
+Other viral encephalitis
+Influenza or other viral systemic illness
+Malaria
+Guillain-Barré syndrome
+Cerebrovascular accident
+Tetanus
+Botulism
+Intracranial mass
+Prion disease
+Seizures 
+Toxicologic entities 
+Treatment 
+Post exposure prophylaxis: 
+Note: There are no contraindications for postexposure prophylaxis aside from prior severe allergic reaction. Pregnant women, infants, children, and immunocompromised patients may all receive rabies postexposure prophylaxis. If a patient had a prior severe allergic reaction to rabies vaccine, provide postexposure prophylaxis with an alternate rabies vaccine. 
+Treatment of previously unvaccinated patient:
+Update Tetanus-diphtheria-acellular pertussis (Tdap) vaccination if indicated (see chapter on Mammalian Bites). 
+Administer prophylactic antibiotics as indicated (see chapter on Mammalian Bites).
+Assess for rabies risk: Determine species and risk factors of animal, animal availability for observation (if dog, cat, or ferret), type of contact/severity of exposure, and geographic location/epidemiology.
+Administer initial postexposure prophylaxis:
+Cleanse wound
+All postexposure prophylaxis should begin with immediate thorough cleansing of all wounds with soap and water for 15 minutes. A virucidal agent, eg, povidone-iodine solution, should be used to irrigate the wounds.
+Post exposure prophylaxis: Administer a single dose of human rabies immune globulin with a full course of rabies vaccine. Human rabies immune globulin should be given only if the patient is not previously vaccinated. 
+Human rabies immune globulin should not be administered in the same syringe as the rabies vaccine.
+Human rabies immune globulin
+Dose: 20 IU/kg.
+Infiltrate the full dose in and around the wound.
+Inject any remaining human rabies immune globulin intramuscularly, at a site distant from the site of rabies vaccine administration.
+All wounds should be fully infiltrated.
+Do not exceed the recommended dose. If necessary, the dose may be diluted with 0.9% sodium chloride. 
+Rabies vaccine
+Human diploid cell vaccine or 
+Purified chick embryo cell vaccine
+Vaccine is given as a single vial (2.5 IU) reconstituted to 1 mL administered intramuscularly in the deltoid for adults or in the anterolateral thigh in pediatric patients <2 years of age.
+This dose is given on days 0, 3, 7, and 14. If the patient is immunocompromised, a fifth dose on day 28 is recommended. 
+Treatment of previously vaccinated patient:
+Update Tetanus-diphtheria-acellular pertussis (Tdap) vaccination if indicated (see chapter on Mammalian Bites). 
+Administer prophylactic antibiotics as indicated (see chapter on Mammalian Bites).
+Assess for rabies risk: Determine species and risk factors of animal, animal availability for observation (if dog, cat, or ferret), type of contact/severity of exposure, and geographic location/epidemiology.
+Administer initial postexposure prophylaxis:
+Cleanse wound
+All postexposure prophylaxis should begin with immediate thorough cleansing of all wounds with soap and water for 15 minutes. A virucidal agent, eg, povidone-iodine solution, should be used to irrigate the wounds.
+Post exposure prophylaxis: 
+If the patient is previously vaccinated, human rabies immune globulin is not indicated. If unsure if the patient completed a full vaccination course, treat as an unvaccinated patient. 
+Rabies vaccine
+Human diploid cell vaccine or 
+Purified chick embryo cell vaccine
+Vaccine is given as a single vial (2.5 IU) reconstituted to 1 mL administered intramuscular in the deltoid for adults or in the anterolateral thigh in pediatric patients<2 years of age.
+For previously vaccinated patients, this dose is given on days 0 and 3 only.
+
+Wound management considerations:
+Ideally, wounds should be left open to heal by secondary intention or delayed closure. 
+If a suturing wound cannot be avoided, close as loosely as possible.
+The wound must be copiously irrigated and infiltrated with human rabies immune globulin before any wound closure.
+CONFIRMED SYMPTOMATIC HUMAN RABIES
+Palliative approach:
+Treatment in most cases should be palliative.
+Rabies is almost uniformly fatal once clinical symptoms are present.
+The vast majority of patients who survive will have severe neurologic sequelae. 
+Hospital care is recommended for palliation. 
+Ensure hydration and sedation with titration of benzodiazepines, morphine, and/or barbiturates.
+Aggressive approach:
+In exceptional cases, consider aggressive therapy.
+Possible favorable factors: dose of rabies vaccine before onset of symptoms, young age, previously healthy, early stage/mild symptoms, New World bat rabies variant.
+Requires access to ICU-level care.
+There is no proven effective treatment after onset of symptoms.
+May consider combination therapy with rabies vaccine, human rabies immune globulin, monoclonal antibodies, ribavirin, ketamine, interferon alpha (IFN-α), and nimodipine in consultation with specialists. 
+Disposition
+Admission
+Patients with symptomatic rabies should generally be admitted for symptom palliation.
+In exceptional cases, if aggressive treatment is pursued, ICU-level admission will be required. 
+Discharge home
+Most patients with minor injuries can be discharged after wound care and postexposure prophylaxis. Make sure to give clear instructions with a timeline for return for additional doses of rabies vaccine. 
+Deep Dive
+Background
+Epidemiology
+Worldwide, rabies causes approximately 60,000 deaths per year. Approximately 29 million exposures are treated with postexposure prophylaxis annually worldwide. Approximately 95% of human rabies cases occur in Asia and Africa, and approximately 80% of human rabies cases occur in rural areas.
+Rabies occurs on all continents except for Antarctica, and in more than 150 countries and territories.
+40% of those sustaining bite by a suspected rabid animal are children under the age of 15 years.
+The World Health Organization estimates that global costs due to rabies reach US$8.6 billion per year.
+Most cases of human rabies worldwide are caused by dog vectors, whereas most cases of human rabies in the United States are caused by bat vectors. 
+In the United States, human rabies is rare, with only a few cases per year since 1960. This is largely due to the eradication of the canine rabies virus variant and the availability of postexposure prophylaxis. 
+Rabies among wild animals remains common in the United States, with approximately 23,000 people per year requiring postexposure prophylaxis after a potential exposure.
+Most indigenous cases of human rabies in the United States are due to cryptogenic exposures (in which the patient does not realize they have been exposed and thus does not seek postexposure prophylaxis treatment). Most cryptogenic cases of rabies have been found to be due to insectivorous bat virus variants.
+The incidence of human rabies transmitted by bats has tripled in the period from 1990 to 2007, compared to data from the period from 1950 to 1989.
+The Centers for Disease Control and Prevention (CDC) reported a recent spike in U.S. human rabies cases/deaths. There were 5 deaths in 2021 (3 of which occurred within a 5-week period between late September and early November 2021) compared to zero deaths in 2019 and 2020.
+Between 2000 and 2007, there were 25 documented human rabies cases in the U.S. Of those, 20 were indigenous (acquired domestically). Of these, 17 were attributed to bat variant rabies.
+Rabies is endemic in several other vectors in the U.S., including skunks, foxes, and raccoons.
+Pathophysiology
+After inoculation with rabies virus (most commonly from saliva/bite of an infected animal), the virus does not enter the bloodstream but slowly replicates in local tissue until it is able to enter the peripheral nervous system. 
+Dog variant rabies virus is most likely to cause infection after a deep bite penetrating the muscle. This is because the virus can only enter the nervous system though the motor end plates of the muscle, not via sensory or sympathetic nerve endings of the muscle. At this time, it is unclear whether dog variant rabies virus can enter via sensory nerves in cutaneous tissue; however, superficial inoculation is found to be a lower risk exposure for this variant. 
+Bat rabies variants are found to pose a very high risk for infection even when deposited in superficial scratches or abrasions. This is believed to be due to the ability of bat rabies variants to multiply in epidermal tissue. 
+It has been hypothesized that bat variant rabies may be able to enter sensory and sympathetic nerves in the skin, which could explain the higher risk of transmission for superficial inoculation, and the higher incidence of local neurologic symptoms and atypical symptoms such as Horner’s syndrome in clinical rabies due to bat virus variants.
+Once within the motor nerve, the rabies virus is protected from the body’s immune system and is rapidly transported via peripheral motor nerves to the central nervous system (centripetal propagation). 
+Once the rabies virus begins replicating in the central nervous system, encephalitic and other systemic symptoms appear.
+The virus is then transported to the peripheral organs (including salivary glands) via slow transport through peripheral sensory nerves (centrifugal propagation).
+At this stage, the presence of rabies virus in saliva, excessive salivation, increased aggression, and propensity to bite help propagate transmission to other hosts.
+Rabies virus is rapidly fatal and, at this stage, the disease progresses to multiorgan failure, coma, and death.
+Diagnostic Considerations
+Data show that treating clinicians rarely suspect rabies until 7 days after symptom onset.
+Known or suspected history of exposure and presence of hydrophobia or aerophobia were associated with a statistically significant increased rate of premortem diagnosis.
+Cryptogenic cases and atypical presentations are much more difficult to diagnose and likely underreported.
+Therapeutic Considerations 
+The CDC formed the Advisory Committee on Immunization Practices (ACIP) Rabies Workgroup, which reviewed published and unpublished data, epidemiologic evidence, and expert opinion. ACIP published its updated rabies postexposure prophylaxis recommendations in 2010.
+New ACIP guidelines from 2010 decreased the vaccine portion of recommended postexposure prophylaxis regimen in previously unvaccinated individuals from 5 doses of rabies vaccine to 4 doses.
+According to 2010 ACIP guidelines, rabies postexposure prophylaxis for all unvaccinated individuals should include wound cleansing, human rabies immune globulin on day 0 (as much as possible infiltrated at site of wounds, and remainder administered intramuscularly at a distant site from vaccine), and human diploid cell vaccine or purified chick embryo cell vaccine intramuscularly on days 0, 3, 7, and 14.
+ACIP postexposure prophylaxis recommendations for those previously vaccinated did not change and still include wound cleansing and human diploid cell vaccine or purified chick embryo cell vaccine intramuscularly on days 0 and 3, without human rabies immune globulin. Human rabies immune globulin should not be administered in this case because it could interfere with anamnestic immune response
+ACIP considers patients to be previously vaccinated if they have previously completed a postexposure or preexposure prophylaxis regimen in accordance with ACIP guidelines, or if they received a nonapproved vaccine regimen and have a documented adequate antibody response.
+Per ACIP guidelines, serologic confirmation of antibody response after approved regimen is not indicated in immunocompetent patients, as all should mount an appropriate response after an approved postexposure prophylaxis regimen.
+ACIP still recommends 5-dose vaccination postexposure prophylaxis for immunocompromised patients on days 0, 3, 7, 14, and 28. Antibody response should be tested in immunocompromised patients after pre-exposure or post exposure prophylaxis. Immunosuppressive agents should be held during rabies postexposure prophylaxis if possible.
+CDC recommends consideration of preexposure prophylaxis for those working in rabies laboratories, animal control officers, wildlife officers, veterinarians, biologists, those traveling to areas with high rates of rabies and low access to postexposure prophylaxis or other medical care, and others who may be at increased risk of exposure to rabies. Current CDC guidelines indicate a 3-course preexposure prophylaxis vaccination regimen with 1-mL intramuscular doses of human diploid cell vaccine or purified chick embryo cell vaccine on days 0, 7, and 21 or 28. 
+The World Health Organization (WHO) published its updated guidelines in 2018 in the WHO Expert Consultation on Rabies. Some of these recommendations conflict with those from the most recent Advisory Committee on Immunization Practices and CDC positions.
+WHO has decreased its recommended preexposure prophylaxis vaccination schedule for immunocompetent patients from 3 doses to 2 doses (days 0 and 7) in an effort to increase accessibility and compliance.
+WHO promotes use of human diploid cell vaccine or purified chick embryo cell vaccine in intramuscular or intradermal routes; however, per the CDC, intradermal formulations are not currently available in the U.S.
+WHO classifies exposures into 3 categories:
+Category I (no rabies exposure) - exposure to intact skin
+Category II - minor scratches or abrasions without bleeding (excluding bat exposure, which is treated as Category III).
+Category III (severe exposure) - transdermal bites or scratches, fluid exposure to intact mucous membranes, fluid exposure to broken skin, or any direct contact with bats.
+WHO recommends no postexposure prophylaxis for Category I (non-exposure), postexposure prophylaxis with vaccine only for Category II exposure, and full postexposure prophylaxis with vaccine and rabies immune globulin for Category III exposure. This differs from CDC recommendations, which indicate full postexposure prophylaxis with vaccine and human rabies immune globulin for all rabies exposures.
+Per WHO, determination of likelihood of rabies exposure depends on consideration of the following factors:
+Category of exposure
+Local epidemiologic data 
+Species of animal
+Presence or absence of abnormal behavior of animal
+Vaccination status (dogs and cats)
+Animal availability for observation (dogs, cats, and ferrets)
+Laboratory testing of animal
+Failure of postexposure prophylaxis is very rare if established protocols are followed. 
+Postexposure prophylaxis should be administered as soon as possible after any suspected or known rabies exposure but should be administered regardless of time course since exposure, given the large variability in incubation period.
+WHO states that postexposure prophylaxis may be delayed in the case of a bite from a dog, cat, or ferret that is deemed healthy on assessment by a qualified professional and is available for observation for 10 days. If an animal is suspected of being rabid, postexposure prophylaxis should not be delayed. If the animal becomes sick, dies, or escapes at any time during the observation period, postexposure prophylaxis should be started immediately. 
+WHO guidelines agree with current CDC/ACIP guidelines regarding the favorability of administering the entire rabies immune globulin dose to wound sites. CDC/ACIP guidelines advise administering the remainder intramuscularly at sites distant from the vaccine. While the WHO position is that this is of little to no benefit, they do advise intramuscular administration in cases of bat exposure, exposure other than a bite, or in cases of high likelihood of additional small unidentified wounds.
+Dogs, cats, and ferrets are considered contagious for 10 days preceding symptoms, whereas other animals are considered contagious for 14 days before symptom onset.
+Adverse reactions to vaccination are rare:
+The vaccine is inactivated and safe for administration to immunocompromised patients. 
+35%-45% have mild local erythema or pain at site of injection.
+5%-15% have minor systemic symptoms - fever, headache, gastrointestinal symptoms.
+Serious complications such as Guillain-Barré are very rare.
